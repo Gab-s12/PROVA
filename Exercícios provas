@@ -1,8 +1,8 @@
-//1- 
-function somar(a, b) { // O nome da função é "Somar"
-  // parâmetros
-return a + b; //
-} 
+//1- //palavra reservada: function-> utilizado pelo programa 
+function somar(a, b) { // O nome da função é "Somar"- utilizada par identificar a função 
+  // parâmetros: a e b usados como variável - valores personalizados. 
+return a + b;
+}
 console.log(somar(5, 3));
 
 //2-e 
